@@ -25,4 +25,14 @@ body{
   padding: 7px;
   border-radius: 20px;
   margin-right: 10px;
+  margin-bottom: 7px;
+}
+
+.friend{
+  width: 55px;
+  height: 55px;
+}
+
+.friend-info{
+  font-size: 12px;
 }
